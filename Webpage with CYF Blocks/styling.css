@@ -1,0 +1,19 @@
+h1{
+    color: pink;
+}
+body{
+    text-align: center;
+    padding-top: 5%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.heading{
+    border-style: ridge;
+}
+#greetedName{
+    font-weight: 100;
+    color: pink;
+}
+#button{
+    background-color: lightcoral;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
